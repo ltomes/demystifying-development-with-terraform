@@ -1,0 +1,1 @@
+terraform graph -var-file="env/sample/terraform.tfvars"  | dot -T svg > graph.svg

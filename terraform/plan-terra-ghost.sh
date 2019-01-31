@@ -1,0 +1,1 @@
+terraform plan -var-file="env/sample/terraform.tfvars"

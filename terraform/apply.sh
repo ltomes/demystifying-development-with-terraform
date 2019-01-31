@@ -1,0 +1,1 @@
+terraform apply -var-file="env/sample/terraform.tfvars"
