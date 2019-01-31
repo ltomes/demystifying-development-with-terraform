@@ -1,1 +1,2 @@
-terraform/env/sample
+terraform/env/sample/terraform.tfvars
+terraform/.terraform/
